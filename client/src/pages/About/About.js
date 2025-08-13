@@ -1,6 +1,5 @@
 import React from "react";
 import "./About.css";
-import Dp from "../../images/profile photo.jpg";
 const About = () => {
   return (
     <>
